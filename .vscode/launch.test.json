@@ -1,0 +1,28 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "spring-boot-book-sample",
+                "projectName": "spring-boot-book-sample",
+                "workingDirectory": "/Users/wind/Projects/spring-boot-book-sample",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "spring-boot-book-sample",
+                "projectName": "spring-boot-book-sample",
+                "workingDirectory": "/Users/wind/Projects/spring-boot-book-sample",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
