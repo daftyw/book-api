@@ -132,6 +132,10 @@ slow	depending	on	the	usage	traffic	it	receives:
 
 *GET:	https://scb-test-book-publisher.herokuapp.com/books/recommendation* Shows a	list	of	recommended	books	from	the	publisher.
 
+
+----
+
+
 ## Running 
 
 Prerequisite for the project
@@ -154,6 +158,5 @@ Prerequisite for the project
         ./mvnw test
 
 
-#### REMARK
 
-*SWAGGER URL* : http://localhost
+##### REMARK: Included SWAGGER URL = http://localhost:8080/v2/api-docs
